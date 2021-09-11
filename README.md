@@ -11,14 +11,12 @@ I'm a student who lives in France. I'm learning how to code. I love making and d
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 [![Maceo's Github Stats](https://github-readme-stats.vercel.app/api?username=maceobasse)](https://github.com/anuraghazra/github-readme-stats)
