@@ -22,4 +22,5 @@ I'm a student who lives in France. I'm learning how to code. I love making and d
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
 [![Maceo's Github Stats](https://github-readme-stats.vercel.app/api?username=maceobasse)](https://github.com/anuraghazra/github-readme-stats)
