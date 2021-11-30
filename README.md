@@ -2,8 +2,8 @@
 
 I'm a student who lives in France. I'm learning how to code. I love making and designing webpages with HTML, CSS and JS (and possible React in the future). It's fun to code something that anyone on the web can easily see. I also enjoy programming in Python because they challenge me more. I love it when I can finally solve a difficult problem.
 
-- 🌱 I’m currently learning JS.
-- 🔭 I’m currently working on creating webpages and learning how to progam.
+- 🌱 I’m currently learning VueJs.
+- 🔭 I’m currently working on creating app and learning how to progam.
 - 😀 I like to code, read, and play basketball in my free time.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
