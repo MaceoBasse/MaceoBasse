@@ -17,6 +17,9 @@ I'm a student who lives in France. I'm learning how to code. I love making and d
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 [![Maceo's Github Stats](https://github-readme-stats.vercel.app/api?username=maceobasse)](https://github.com/anuraghazra/github-readme-stats)
